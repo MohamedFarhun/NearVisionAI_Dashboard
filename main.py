@@ -2,7 +2,7 @@ import streamlit as st
 import about, analytics,health_indicators, home, nearvision_ai, smart_contracts, transactions
 
 def main():
-    st.set_page_config(page_title="NearVision Dashboard ", page_icon="👁️", layout="wide")
+    st.set_page_config(page_title="NearVision Dashboard ", page_icon="👁️", layout="wide",theme="light")
     st.sidebar.title('📊 NearVision Analytics Dashboard Ⓝ')
     # Network selection in the sidebar, with an option for pages that don't require network selection
     network_options = ['Select Network', 'Testnet', 'Mainnet']
