@@ -33,7 +33,7 @@ def main():
         """
         <div style='padding: 10px; border-radius: 10px; background-color: #FFF3CD; color: #856404; margin-bottom: 10px;'>
             <strong>Note:</strong> For the best experience, please ensure your theme is set to light. 
-            You can change this in the settings menu at the top-right of this page.
+            You can change this in the settings menu at the top-right of this page.Make sure you change it to light theme in phone or desktop settings as well.
         </div>
         """,
         unsafe_allow_html=True,
